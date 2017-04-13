@@ -57,5 +57,5 @@ Specifications get checked-in to the version control system, in the same reposit
 - Consolidated, easy to find.
 - Spec and code stay in sync
     1. Changes to the spec are done on a new branch, at the start of a Sprint.
-    2. Related changes to the code are then made in the same branch. *(Illustration: N'sync, or parallel polylines on a graph)*
+    2. Related changes to the code are then made in the same branch.
 - History is preserved, so edits can be sweeping
