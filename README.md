@@ -45,7 +45,7 @@ It also
 
 With a clear specificiation, everyone can be on the same page.
 
-**IMPORTANT CAVEAT:** We shall not plan everything *up front*.  At the start, it is impossible to know exactly in which direction the project will develop.  Especially when breaking new ground, we will all be learning as we go.  We must strive to plan and build iteratively, creating the opportunity for feedback to influence our plan.
+**IMPORTANT CAVEAT:** We shall not plan *everything up front*.  At the start, it is impossible to know exactly what the project will become.  We will all be learning as we go, especially when working on a unique project.  We must strive to plan, build, (test, review,) and release iteratively, allowing feedback to influence successive planning phases.
 
 ### Explain *Why*
 Certainly there's a reason for the project, right?  Lead with that.  What is the problem that our software will solve?  What is its reason for existing? If you had 30 seconds to sell someone on your software, what would you say?
