@@ -8,21 +8,21 @@ When software is done well, it appears to be magic.  A really well-designed appl
 
 Example: Microsoft Excel
 
-![Microsoft Excel](excel.jpg)
+![Microsoft Excel](img/excel.jpg)
 
 Example: Garageband for the iPhone
 
-![Garageband for iPhone](garageband-tracks.jpg)
+![Garageband for iPhone](img/garageband.jpg)
 
 Example: Google Inbox
 
-![Google Inbox](google-inbox.gif)
+![Google Inbox](img/google-inbox.gif)
 
 #### The Machinery
-Despite its ethereal nature, software is not actually magic; it is built atop an actual physical machine.  It isn't some spell cast by a wizard/witch; it is a sequence of instructions issued to that physical machine, painstakingly composed by we programmers.  We put a lot of thought and effort into it.
+Despite its ethereal nature, software is not actually magic; it is built atop a physical machine.  It isn't some spell cast by a wizard/witch; it is a sequence of instructions issued to that physical machine, painstakingly composed by we programmers.  We put a lot of thought and effort into it.
 
 [Marble Machine](https://www.youtube.com/watch?v=IvUU8joBb1Q)
-![](marble-machine.jpg)
+![](img/marble-machine.jpg)
 
 Common duties performed by software machinery:
 - sending/receiving data over a network
@@ -57,13 +57,13 @@ Capture short, simple descriptions of features told from the user's perspective 
 - "As [persona], I want [what?] so that [why?]
 
 Use a flowchart to describe a process or user story that has logical branching, multiple steps, and/or involves multiple parties.
-![](Flowchart-Example.png)
+![](img/Flowchart-Example.png)
 
 ### Explain *How*
 After you've established the *Why* and *What* of the domain, it would be good to nail down some specifics of the *How*.
 
 If you provide mockups (a.k.a. wireframes), take care to keep them as simple as possible.  Sometimes, a lot of detail can be distracting and communicate the wrong thing.  Focus on the key design considerations and leave the incidental stuff for later.
-![](Wireframe-Example.png)
+![](img/Wireframe-Example.png)
 
 
 ### A Specification is to Code as Peanut Butter is to Jelly
