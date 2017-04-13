@@ -18,8 +18,7 @@ Example: Google Inbox
 
 ![Google Inbox](img/google-inbox.gif)
 
-#### The Machinery
-Despite its ethereal nature, software is not actually magic; it is built atop a physical machine.  It isn't some spell cast by a wizard/witch; it is a sequence of instructions issued to that physical machine, painstakingly composed by we programmers.  We put a lot of thought and effort into it.
+Despite its ethereal nature, software is not actually *magic*; it is built atop a physical machine.  It isn't some *spell* cast by a wizard/witch; it is a sequence of instructions issued to that physical machine, painstakingly composed by us programmers.  Consider that the better we *understand* the needs of our users, and the *wiser* our programming choices, the more *magical* our software will appear.
 
 [Marble Machine](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 ![](img/marble-machine.jpg)
@@ -27,17 +26,23 @@ Despite its ethereal nature, software is not actually magic; it is built atop a 
 Common duties performed by software machinery:
 - sending/receiving data over a network
 - loading data from a database / saving data to a database
-- displaying graphical widgets on a screen for a user to interact with
+- displaying graphical widgets on a screen for the user to interact with
 - executing logic, number-crunching, validation
+- parsing Excel files
+- generating PDF files
+- manipulating images
+- sending email
 
 ### To build, one first must plan
 Software takes time to build.  To keep us on track, we have to have a plan.
 
 A specification communicates our current understanding of where the machinery and user meet.
-It communicates clear goals and purpose.
-It tells our clients what we understand about their problem space and what solution we plan to build for them.
-It reminds the developers what they need to build.
-It gives everyone the language they need to discuss the software being built.
+It also
+- communicates goals and purpose, clearly
+- tells our clients what we understand about their problem space and what solution we plan to build for them
+- reminds the developers what they need to build
+- gives everyone the language they need to discuss the software being built
+
 With a clear specificiation, everyone can be on the same page.
 
 **IMPORTANT CAVEAT:** We shall not plan everything *up front*.  At the start, it is impossible to know exactly in which direction the project will develop.  Especially when breaking new ground, we will all be learning as we go.  We must strive to plan and build iteratively, creating the opportunity for feedback to influence our plan.
@@ -67,7 +72,7 @@ If you provide mockups (a.k.a. wireframes), take care to keep them as simple as 
 
 
 ### A Specification is to Code as Peanut Butter is to Jelly
-Specifications get checked-in to the version control system, in the same repository as the project.  This gives us several advantages:
+Specifications get checked-in to the version control system, in the same repository as the source files.  This gives us several advantages:
 - Consolidated, easy to find.
 - Spec and code stay in sync
     1. Changes to the spec are done on a new branch, at the start of a Sprint.
