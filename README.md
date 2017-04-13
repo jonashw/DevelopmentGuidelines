@@ -6,14 +6,17 @@ By Jon Wilson
 ### Software is Magic Machinery
 When software is done well, it appears to be magic.  A really well-designed application can capture the *essence* of a workflow in its distilled form, wasting very little of the user's mental energy.  It anticipates a user's needs.  Its core mission is clear.  It makes a user's path to success intuitive and discoverable.  It makes a task easier.
 
-![Microsoft Excel](excel.jpg)
 Example: Microsoft Excel
 
-![Garageband for iPhone](garageband-tracks.jpg)
+![Microsoft Excel](excel.jpg)
+
 Example: Garageband for the iPhone
 
-![Google Inbox](google-inbox.gif)
+![Garageband for iPhone](garageband-tracks.jpg)
+
 Example: Google Inbox
+
+![Google Inbox](google-inbox.gif)
 
 #### The Machinery
 Despite its ethereal nature, software is not actually magic; it is built atop an actual physical machine.  It isn't some spell cast by a wizard/witch; it is a sequence of instructions issued to that physical machine, painstakingly composed by we programmers.  We put a lot of thought and effort into it.
