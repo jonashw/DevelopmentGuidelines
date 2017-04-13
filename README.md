@@ -16,7 +16,7 @@ Example: Garageband for the iPhone
 Despite its ethereal nature, software is not actually magic; it is built atop an actual physical machine.  It isn't some spell cast by a wizard/witch; it is a sequence of instructions issued to that physical machine, painstakingly composed by we programmers.  We put a lot of thought and effort into it.
 
 [Marble Machine](https://www.youtube.com/watch?v=IvUU8joBb1Q)
-![](marble-machine-whole.jpg)
+![](marble-machine.jpg)
 
 Common duties performed by software machinery:
 - sending/receiving data over a network
