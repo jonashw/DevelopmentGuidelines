@@ -43,10 +43,10 @@ With a clear specificiation, everyone can be on the same page.
 **IMPORTANT CAVEAT:** We shall not plan everything *up front*.  At the start, it is impossible to know exactly in which direction the project will develop.  Especially when breaking new ground, we will all be learning as we go.  We must strive to plan and build iteratively, creating the opportunity for feedback to influence our plan.
 
 ### Explain *Why*
-Certainly there's a reason for the project, right?  Lead with that.  What is the problem that our software will solve?  What is its reason for existing?
+Certainly there's a reason for the project, right?  Lead with that.  What is the problem that our software will solve?  What is its reason for existing? If you had 30 seconds to sell someone on your software, what would you say?
 
 ### Explain *Who* and *What*
-You should strongly consider transcribing any terms (with their definitions) that strike you as particularly important in describing the domain.  In particular, if a common word is used in a not-so-common way, it should probably be explicitly defined in your specification.  In the parlance of *Domain Driven Design*, this set of terms is known as the *Ubiquitous Language*.
+You should strongly consider transcribing any terms (with their definitions) that strike you as particularly important in describing the domain.  In particular, if a common word is used in a not-so-common way, it should probably be explicitly defined in your specification.  In the parlance of [*Domain Driven Design*](https://en.wikipedia.org/wiki/Domain-driven_design), this set of terms is known as the [*Ubiquitous Language*](https://www.agilealliance.org/glossary/ubiquitous-language/).
 
 Capture short, simple descriptions of features told from the user's perspective (a.k.a. *User Stories*).  Use the *Ubiquitous Language* in these descriptions. Use one of the following formats:
 - "As a [role], I want [goal/desire]"
@@ -54,15 +54,15 @@ Capture short, simple descriptions of features told from the user's perspective 
 - "In order to [receive benefit] as a [role], I want [goal/desire]"
 - "As [who] [when] [where], I [what] because [why]."
 - "As a [role], I can [action with system] so that [external benefit]"
-- "As [persona], I want [what?] so that [why?]
+- "As [persona], I want [what?] so that [why?]"
 
-Use a flowchart to describe a process or user story that has logical branching, multiple steps, and/or involves multiple parties.
+Use a flowchart to describe a process or user story that has logical branching, multiple steps, and/or involves multiple parties. The [yEd Graph Editor](http://www.yworks.com) is quite capable.
 ![](img/Flowchart-Example.png)
 
 ### Explain *How*
 After you've established the *Why*, *Who*, and *What* of the domain, it might be good to nail down some specifics of the *How*.
 
-If you provide mockups (a.k.a. wireframes), take care to keep them as simple as possible.  Sometimes, a lot of detail can be distracting and communicate the wrong thing.  Focus on the key design considerations and leave the incidental stuff for later.
+If you provide mockups (a.k.a. wireframes), take care to keep them as simple as possible.  Sometimes, a lot of detail can be distracting and communicate the wrong thing.  Focus on the key design considerations and leave the incidental stuff for later. Try [Pencil](http://pencil.evolus.vn/) (FREE) or [Balsamiq](http://www.balsamiq.com) (NOT FREE).
 ![](img/Wireframe-Example.png)
 
 
