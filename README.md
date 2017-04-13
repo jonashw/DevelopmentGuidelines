@@ -1,5 +1,5 @@
 # The Specification Process
-## Understanding the context of the software we build
+## *Why*, *Who*, *What*, *How*
 
 By Jon Wilson
 
@@ -45,7 +45,7 @@ With a clear specificiation, everyone can be on the same page.
 ### Explain *Why*
 Certainly there's a reason for the project, right?  Lead with that.  What is the problem that our software will solve?  What is its reason for existing?
 
-### Explain *What*
+### Explain *Who* and *What*
 You should strongly consider transcribing any terms (with their definitions) that strike you as particularly important in describing the domain.  In particular, if a common word is used in a not-so-common way, it should probably be explicitly defined in your specification.  In the parlance of *Domain Driven Design*, this set of terms is known as the *Ubiquitous Language*.
 
 Capture short, simple descriptions of features told from the user's perspective (a.k.a. *User Stories*).  Use the *Ubiquitous Language* in these descriptions. Use one of the following formats:
@@ -60,7 +60,7 @@ Use a flowchart to describe a process or user story that has logical branching, 
 ![](img/Flowchart-Example.png)
 
 ### Explain *How*
-After you've established the *Why* and *What* of the domain, it would be good to nail down some specifics of the *How*.
+After you've established the *Why*, *Who*, and *What* of the domain, it might be good to nail down some specifics of the *How*.
 
 If you provide mockups (a.k.a. wireframes), take care to keep them as simple as possible.  Sometimes, a lot of detail can be distracting and communicate the wrong thing.  Focus on the key design considerations and leave the incidental stuff for later.
 ![](img/Wireframe-Example.png)
