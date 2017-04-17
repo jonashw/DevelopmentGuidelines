@@ -62,8 +62,16 @@ Capture short, simple descriptions of features told from the user's perspective 
 - "As [persona], I want [what?] so that [why?]"
 
 Use a flowchart to describe a process or user story that has logical branching, multiple steps, and/or involves multiple parties. The [yEd Graph Editor](http://www.yworks.com) is quite capable.
+
+Flowchart Example: Student Enrollment Process
+
 ![](img/Flowchart-Example.png)
 
+Flowchart Example: Poker hand classification
+
+[comment]: # ( ![](img/Poker_Hand.png)))
+
+![](img/Flowchart-Example-Poker_Hand_Classification.png)
 ### Explain *How*
 After you've established the *Why*, *Who*, and *What* of the domain, it might be good to nail down some specifics of the *How*.
 
