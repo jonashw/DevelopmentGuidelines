@@ -69,8 +69,6 @@ Flowchart Example: Student Enrollment Process
 
 Flowchart Example: Poker hand classification
 
-[comment]: # ( ![](img/Poker_Hand.png)))
-
 ![](img/Flowchart-Example-Poker_Hand_Classification.png)
 ### Explain *How*
 After you've established the *Why*, *Who*, and *What* of the domain, it might be good to nail down some specifics of the *How*.
